@@ -2,8 +2,8 @@
 Accompanying source code for our machine that sorts discs based on color.
 
 ## Design
-![Layout](img/layout.png =400x)
-![Render](img/render.png =400x)
+![Layout](img/layout.png)
+![Render](img/render.png)
 
 ## Description of the code
 In the main there is the setup that runs once the board is loaded with the program, resets variables, initialises the interrupt.
